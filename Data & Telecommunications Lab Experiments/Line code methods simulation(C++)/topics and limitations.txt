@@ -1,0 +1,20 @@
+Topics covered-
+Line coding techniques-
+*NRZ-L
+*NRZ-I
+*RZ
+*Manchester
+are covered in this programs.
+Both Encoding and decoding part implemented.
+
+Language : C/C++
+
+Limitations:
+
+#Bugs in decoding NRZ-I 
+
+		---------------------------------------
+
+------------(if you can fix the bugs let me know)--------------
+
+		---------------------------------------
