@@ -1,0 +1,16 @@
+Language: JAVA
+
+Server : Both Encoding --- binary value to voltage levels
+Parity : Manually added in the last bit
+Data : input in console --- segmented in to 8 bit chunks + 1 bit for parity
+
+Client : Both Decoding --- Voltage levels to binary data
+Parity : Checked and compared with the last bit of encoded and decoded data
+Data : output shows both input voltage levels from server and decoded signal.
+
+
+#as there is no error should happen for this experiment. Parity check is just for nothing here# 
+
+:)
+Wanna contribute or experiment with code,,,let me know... 
+sakibhasan2263@gmail.com
